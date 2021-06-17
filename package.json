@@ -20,19 +20,19 @@
   },
   "homepage": "https://github.com/Mayamii/React-learning#readme",
   "devDependencies": {
-    "@babel/core": "^7.12.16",
-    "@babel/preset-react": "^7.12.13",
-    "eslint": "^7.18.0",
-    "eslint-config-prettier": "^8.1.0",
+    "@babel/core": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "eslint": "7.18.0",
+    "eslint-config-prettier": "8.1.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
-    "parcel": "^1.12.3",
-    "prettier": "^2.3.1"
+    "parcel": "1.12.3",
+    "prettier": "2.2.1"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
   },
   "browserslist": [
     "last 2 Chrome versions"
